@@ -1,2 +1,4 @@
-# yolov3-firstrelease
-This is the initial implementation of the YOLOv3 model on peripheral blood smear images 
+# PATHVision - initial implmentation 
+
+
+Blood smear analysis is the initial and main test carried out while detecting and validating blood related diseases.Peripheral Blood smear test is vital for diagnosing Malaria and Luekemia along with diagnosing other disease. 
